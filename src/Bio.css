@@ -1,0 +1,12 @@
+.intro{
+    display: flex;
+    margin: 20px;
+    border: 2px solid black;
+}
+.button{
+    display: flex;
+    justify-content: center;
+    margin-top: 2px;
+}
+
+
