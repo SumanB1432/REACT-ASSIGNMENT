@@ -22,7 +22,9 @@ class Bio extends React.Component{
          <div className="button">
             <button onClick={()=>{this.upperCase()}} >See In Upper Case</button>
         </div>
-        <div>{this.state.intro}</div>
+        <div className="Upper">
+            {this.state.intro}
+            </div>
             </p>
 
       </div>
